@@ -1,1 +1,1 @@
-# ng3rd
+# ng3rd - 3rd party integrations
