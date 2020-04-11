@@ -1,0 +1,4 @@
+github.com/appleboy/go-fcm v0.1.5 h1:fKbcZf/7vwGsvDkcop8a+kCHnK+tt4wXX0X7uEzwI6E=
+github.com/appleboy/go-fcm v0.1.5/go.mod h1:MSxZ4LqGRsnywOjnlXJXMqbjZrG4vf+0oHitfC9HRH0=
+github.com/jordan-wright/email v0.0.0-20200322182553-8eef2508c362 h1:5GjN/aV0y9Vlh0/bW7x4+Wk1dfPUXHhZlc1YBQYch8Q=
+github.com/jordan-wright/email v0.0.0-20200322182553-8eef2508c362/go.mod h1:Fy2gCFfZhay8jplf/Csj6cyH/oshQTkLQYZbKkcV+SY=
